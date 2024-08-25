@@ -1,8 +1,7 @@
 # Theme
 JANGAN DIJUAL BELAKAN YE BWANG !!!
-BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
+BUTUH LICENSE/PW CHAT PETRA
 
-Comand Run Install Thema
+Comand Run Install
 
-bash <(curl https://raw.githubusercontent.com/gitfdil1248/thema/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/Petra2-gif/thema/main/install.sh)
