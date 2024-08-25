@@ -437,7 +437,7 @@ EOF
   echo -e "                                                       "
   sleep 2
   
-  exit 0
+  exit 0 
 }
 # Main script
 display_welcome
@@ -452,7 +452,7 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                  ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                 ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                                ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer PETRA      ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer 𝐏𝐄𝐓𝐑𝐀      ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------   ${NC}"
   echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram  : 𝐏𝐄𝐓𝐑𝐀        ${NC}"
   echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit   : 𝐏𝐄𝐓𝐑𝐀        ${NC}"
