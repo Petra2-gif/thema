@@ -62,13 +62,13 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "petrahosting" ]; then
+  if [ "$USER_TOKEN" = "haikalpetra" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu Gih Ke PetraHosting${NC}"
     echo -e "${YELLOW}TELEGRAM : @PetraHosting${NC}"
     echo -e "${YELLOW}WHATSAPP : 6281389190204${NC}"
-    echo -e "${YELLOW}HARGA TOKEN : 20K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
+    echo -e "${YELLOW}HARGA TOKEN : 22K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
     echo -e "${YELLOW}©PetraHosting${NC}"
     exit 1
   fi
@@ -181,11 +181,11 @@ elif [ "$SELECT_THEME" -eq 3 ]; then
   echo -e "                                                                   "
 
     # Menanyakan informasi kepada pengguna untuk tema Enigma
-    echo -e "${YELLOW}Masukkan link wa (https://wa.me...) : ${NC}"
+    echo -e "${YELLOW}Masukkan link wa (https://wa.me/6281389190204) : ${NC}"
     read LINK_WA
-    echo -e "${YELLOW}Masukkan link group (https://.....) : ${NC}"
+    echo -e "${YELLOW}Masukkan link group (https://chat.whatsapp.com/KWCIdDeRhMBL0e2RE19sRx) : ${NC}"
     read LINK_GROUP
-    echo -e "${YELLOW}Masukkan link channel (https://...) : ${NC}"
+    echo -e "${YELLOW}Masukkan link channel (https://whatsapp.com/channel/0029VamRWmnIt5ruDilYHa3a) : ${NC}"
     read LINK_CHNL
 
     # Mengganti placeholder dengan nilai dari pengguna
