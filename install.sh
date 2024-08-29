@@ -1,4 +1,4 @@
-#!/bin/bash
+agnes!/bin/bash
 
 # Color
 BLUE='\033[0;34m'       
@@ -62,7 +62,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "haikalpetra" ]; then
+  if [ "$USER_TOKEN" = "agnessayang" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu Gih Ke PetraHosting${NC}"
